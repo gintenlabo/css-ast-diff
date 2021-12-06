@@ -41,11 +41,8 @@
     "es6-object-assign": "^1.0.3",
     "fs": "0.0.2",
     "node-diff": "^0.2.0",
-    "nodegit": "^0.11.8",
     "optionator": "^0.8.1",
     "path": "^0.12.7",
-    "svn": "^0.2.0",
-    "svn-interface": "^0.5.0",
     "util": "^0.10.3"
   },
   "devDependencies": {

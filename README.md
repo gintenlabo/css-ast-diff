@@ -19,18 +19,6 @@ npm i -g css-ast-diff
 
 ## Usage
 
-Compare a file to the latest commit on HEAD of its git repository (i.e. `git diff HEAD`):
-
-```
-css-ast-diff build/style.css
-```
-
-Compare a file to the original file in the SVN working copy:
-
-```
-css-ast-diff --svn build/style.css
-```
-
 Compare two files:
 
 ```
