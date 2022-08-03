@@ -12,3 +12,8 @@ h1.one.complex > button#id.disabled[disabled]:active {
   background: red;
   font-size: 18px;
 }
+
+a[href='test'] {
+  color: red;
+  background: white;
+}
