@@ -43,6 +43,7 @@
     "node-diff": "^0.2.0",
     "optionator": "^0.8.1",
     "path": "^0.12.7",
+    "postcss-selector-parser": "^6.0.10",
     "util": "^0.10.3"
   },
   "devDependencies": {
